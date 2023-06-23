@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108307602600",
+    "project_id": "payment-app-a9c89",
+    "storage_bucket": "payment-app-a9c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108307602600:android:0394368db73c756ea2369d",
+        "android_client_info": {
+          "package_name": "com.example.payment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108307602600-b4qrd9vgibe4bl917q37e4tkt8s6f9a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Baf0oSZOFgLeZztSTQi3KkVpESPginI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108307602600-b4qrd9vgibe4bl917q37e4tkt8s6f9a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
